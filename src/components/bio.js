@@ -61,18 +61,19 @@ const Bio = () => {
           ggcon
         </a>
       </p>
-      <div>
-      <a
-          className = "elemento de barra de navegación"
-          href = "/admin/"
-          target = "_ blank"
-          rel = "noopener noreferrer"
-          >
-           Administración
-        </a> 
 
-      </div>
-    </div>
+    </div>,
+          <div>
+          <a
+              className = "elemento de barra de navegación"
+              href = "/admin/"
+              target = "_ blank"
+              rel = "noopener noreferrer"
+              >
+               Administración
+            </a> 
+    
+          </div>
   )
 }
 
