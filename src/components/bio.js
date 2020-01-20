@@ -54,24 +54,13 @@ const Bio = () => {
         }}
       />
       <p>
-        Hola soy <strong>{author}</strong> escribo apuntes
-        de la materia CAD.
+        Hola soy <strong>{author}</strong>; escribo apuntes
+        de la materia C.A.D.
         {` `}
         <a href={`http://www.ggcon.com.ar/}`}>
           ggcon
         </a>
         </p>
-        <p>
-          <a
-              className = "elemento de barra de navegación"
-              href = "/admin/"
-              target = "_ blank"
-              rel = "noopener noreferrer"
-              >
-               Administración
-            </a> 
-         </p>
-
     </div>
           
   )
