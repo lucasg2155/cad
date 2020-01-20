@@ -57,10 +57,21 @@ const Bio = () => {
         Hola soy <strong>{author}</strong> escribo apuntes
         de la materia CAD.
         {` `}
-        <a href={`http://ggcon.com.ar/}`}>
+        <a href={`http://www.ggcon.com.ar/}`}>
           ggcon
         </a>
       </p>
+      <div>
+      <a
+          className = "elemento de barra de navegación"
+          href = "/admin/"
+          target = "_ blank"
+          rel = "noopener noreferrer"
+          >
+           Administración
+        </a> 
+
+      </div>
     </div>
   )
 }
