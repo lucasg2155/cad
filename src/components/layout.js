@@ -66,6 +66,16 @@ class Layout extends React.Component {
           © {new Date().getFullYear()}, creado por
           {` `}
           <a href="http://www.ggcon.com.ar">ggcon</a>
+          <p>
+          <a
+              className = "elemento de barra de navegación"
+              href = "/admin/"
+              target = "_ blank"
+              rel = "noopener noreferrer"
+              >
+               Admin
+            </a> 
+         </p>
         </footer>
       </div>
     )
