@@ -60,10 +60,8 @@ const Bio = () => {
         <a href={`http://www.ggcon.com.ar/}`}>
           ggcon
         </a>
-      </p>
-
-    </div>,
-          <div>
+        </p>
+        <p>
           <a
               className = "elemento de barra de navegación"
               href = "/admin/"
@@ -72,8 +70,10 @@ const Bio = () => {
               >
                Administración
             </a> 
-    
-          </div>
+         </p>
+
+    </div>
+          
   )
 }
 
