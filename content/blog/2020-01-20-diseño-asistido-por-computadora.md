@@ -5,4 +5,6 @@ description: Tema 1 modulo 1
 ---
 Diseño Asistido por Computadora: es el conjunto de tecnologias .....
 
-![salchicha](/img/salchicha.jpg "salchicha")
+teoría de proyecto tecnológico
+
+![vivienda](/img/vivienda.jpg "vivienda madera")
